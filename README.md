@@ -36,7 +36,7 @@ Costo total: 16.2
 
 ### How it works??
 #### firts, the program begins with a ```while true``` loop, which means the program will keep running until a specific condition stops it
-#### the first thing the program asks what is the _name of the product_??. the user introduce the name of the product and the program verify if the name is valid using the function ```isalpha()```.This function checks the input and if this one only have letters. If the name is invalid, the program ask the name of the product again.
+#### the first thing the program asks is what is the _name of the product_??. the user introduces the name of the product and the program verifies if the name is valid using the function ```isalpha()```.This function checks the input and if this one only has letters. If the name is invalid, the program asks the name of the product again.
 
 
 
@@ -53,11 +53,16 @@ Costo total: 16.2
 
 
 
-#### Next, the program ask the price of the product(the product selected ). this process is into a ```try-except```block. The try block attempts to convert the input on a float,so if the user enters an invalid value like string(text), the program catches the error and asks the price of the product again. also verifies that the price is not a negative value.
+#### Next, the program asks the _price of the product_(the product selected ). this process is into a ```try-except```block. The try block attempts to convert the input on a float,so if the user enters an invalid value like string(text), the program catches the error and asks the price of the product again. also verifies that the price is not a negative value.
 
 
 
 
 
 
-#### After that, the program asks the quantity of the product(using a similar procces validation),change the input for an integer number and checks if it is not a negative number
+#### After that, the program asks _the quantity of the product_(using a similar procces validation),changes the input for an integer number and checks if it is not a negative number
+
+
+#### once the program has price and quantity, it calculates the final cost by multiplying the previous price and quantity.
+
+#### Finally, the program asks the user what infomation they want to see. They can choose between just watch the final cost or the complete purchase detail, depending on the user's choice, the program shows the result of the previous choice
