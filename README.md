@@ -1,5 +1,5 @@
 # Inventory system
-## good afternoon or morning (depends when you see this). Here I am goimg to explain how my Pyhton Program works
+## good afternoon or morning (depends when you see this). Here I am going to explain how my Pyhton Program works
 ### this program is a simple inventory script that asks the users a  few information about the product:
 1. what its name is??
 2. what its price is??
