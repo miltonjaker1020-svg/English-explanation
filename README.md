@@ -28,10 +28,10 @@ what do you want to view???
 2 
 ```
 ```
-Producto: Apples
-Precio: $5.40
-Cantidad: 3
-Costo total: 16.2
+Product: Apples
+Price: $5.40
+Amount: 3
+total cost: 16.2
 ```
 
 ### How it works??
