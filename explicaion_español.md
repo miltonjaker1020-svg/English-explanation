@@ -108,5 +108,7 @@ Presiona el botón **Run Python File**.
 **Opción 2 (terminal integrada):**
 
 Abre la terminal en VS Code y escribe:
+```python inventario.py```
+
 
 
