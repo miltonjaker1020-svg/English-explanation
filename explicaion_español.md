@@ -79,7 +79,7 @@ costo total: 16.2
 #### Paso 3: ejecutar el programa
 ###### Si el archivo es un programa de Python:
 
-1. Asegúrate de tener **Python instalado**. si no lo tiene instalodado [click aqui para descargarlo](https://www.python.org/ftp/python/pymanager/python-manager-26.0.msix)
+1. Asegúrate de tener **Python instalado**. si no lo tiene instalado [click aqui para descargarlo](https://www.python.org/ftp/python/pymanager/python-manager-26.0.msix)
 2. Abre la carpeta donde descargaste el archivo.
 3. Haz doble clic o ejecútalo con Python.
 
