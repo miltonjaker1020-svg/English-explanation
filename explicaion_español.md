@@ -100,4 +100,13 @@ costo total: 16.2
 
 #### Paso 3: entrar a la carpeta
 ```https://github.com/miltonjaker1020-svg/English-explanation.git```
+#### Paso 4: ejecutar el programa
+
+**Opción 1 (botón de ejecutar):**
+Presiona el botón **Run Python File**.
+
+**Opción 2 (terminal integrada):**
+
+Abre la terminal en VS Code y escribe:
+
 
