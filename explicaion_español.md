@@ -1,7 +1,7 @@
 # Sistema de Inventario
 ## Buenas tardes o buenos días (depende de cuándo veas esto). Aquí voy a explicar cómo funciona mi programa en Python
 ### Diagrama de flujo
-
+[click para ver](https://github.com/miltonjaker1020-svg/English-explanation/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio(2).png)
 ### Este programa es un script simple de inventario que le pide al usuario algunos datos sobre el producto:
 1. ¿Cuál es su nombre?
 2. ¿Cuál es su precio?
