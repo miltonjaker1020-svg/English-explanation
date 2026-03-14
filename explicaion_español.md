@@ -47,7 +47,7 @@ costo total: 16.2
 
 #### Después de eso, el programa pide _la cantidad del producto_ (usando un proceso de validación similar), convierte la entrada en un número entero y verifica que no sea un número negativo.
 
-### Como istalarlo
+
 
 #### Una vez que el programa tiene el precio y la cantidad, calcula el costo final multiplicando el precio por la cantidad.
 
@@ -57,32 +57,47 @@ costo total: 16.2
 
 #### Forma 1: Para personas que no saben usar Git ni herramientas de desarrollo
 
-Si nunca has usado Git, repositorios o programas de programación avanzados, puedes usar el archivo de una forma muy sencilla.
+##### Si nunca has usado Git, repositorios o programas de programación avanzados, puedes usar el archivo de una forma muy sencilla.
 
 ##### Paso 1: entrar al repositorio
-Primero debes abrir el enlace del repositorio público en tu navegador.
+######  Primero debes abrir el enlace del repositorio público en tu navegador.
 
 ##### Paso 2: descargar el archivo
-Tienes dos formas simples de hacerlo:
+###### Tienes dos formas simples de hacerlo:
 
 **Opción A (descargar todo el repositorio):**
-1. Busca el botón verde que dice **Code**.
-2. Haz clic en **Download ZIP**.
-3. Se descargará una carpeta comprimida en tu computadora.
-4. Descomprímela.
+###### 1. Busca el botón verde que dice **Code**.
+###### 2. Haz clic en **Download ZIP**.
+###### 3. Se descargará una carpeta comprimida en tu computadora.
+###### 4. Descomprímela.
 
 **Opción B (descargar solo el archivo):**
-1. Haz clic sobre el archivo que quieres usar.
-2. Busca el botón **Download** o **Raw**.
-3. Guárdalo en tu computadora.
+###### 1. Haz clic sobre el archivo que quieres usar.
+###### 2. Busca el botón **Download** o **Raw**.
+###### 3. Guárdalo en tu computadora.
 
 #### Paso 3: ejecutar el programa
-Si el archivo es un programa de Python:
+###### Si el archivo es un programa de Python:
 
 1. Asegúrate de tener **Python instalado**.
 2. Abre la carpeta donde descargaste el archivo.
 3. Haz doble clic o ejecútalo con Python.
 
-Otra forma es abrir una terminal en esa carpeta y escribir:
+#### Otra forma es abrir una terminal en esa carpeta y escribir:
 ```python inventario.py```
-El programa se ejecutará y podrás usarlo.
+##### El programa se ejecutará y podrás usarlo.
+------
+#### Forma 2: Para personas que saben usar Git
+
+##### Si ya conoces Git, la forma más común es **clonar el repositorio**.
+
+##### Paso 1: copiar la URL del repositorio
+###### En la página del repositorio, presiona **Code** y copia la URL.
+
+##### Url:
+```https://github.com/miltonjaker1020-svg/English-explanation.git```
+> Esto descargará todo el repositorio en tu computadora.
+
+#### Paso 3: entrar a la carpeta
+```https://github.com/miltonjaker1020-svg/English-explanation.git```
+
