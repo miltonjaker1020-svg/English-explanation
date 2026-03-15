@@ -115,7 +115,7 @@ total cost: 16.2
 ##### This will download the entire repository to your computer.
 ##### Step 3: Enter the folder
 > on the terminal type:
-```cd Proyectos.inventario-Riwi```
+```cd English-explanation```
 ##### Step 4: Run the program
 ###### Option 1: Run button
 > Press the Run Python File button in VS Code.
