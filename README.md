@@ -1,5 +1,7 @@
 # Inventory system
 ## good afternoon or morning (depends when you see this). Here I am going to explain how my Pyhton Program works
+### flowchart
+![image alt](https://github.com/miltonjaker1020-svg/English-explanation/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio(2).png)
 ### this program is a simple inventory script that asks the users a  few information about the product:
 1. what its name is??
 2. what its price is??
@@ -66,6 +68,12 @@ total cost: 16.2
 #### once the program has price and quantity, it calculates the final cost by multiplying the previous price and quantity.
 
 #### Finally, the program asks the user what infomation they want to see. They can choose between just watch the final cost or the complete purchase detail, depending on the user's choice, the program shows the result of the previous choice
+
+### Before know How run the program, Here is the requirements
+#### - Python 3.x installed if you do not have it [click here in order to downloaded](https://www.python.org/ftp/python/pymanager/python-manager-26.0.msix)
+#### - VS Code (optional)
+#### - Git (optional)
+
 
 
 ### How  use the program??
