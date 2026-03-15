@@ -70,7 +70,7 @@ total cost: 16.2
 #### Finally, the program asks the user what infomation they want to see. They can choose between just watch the final cost or the complete purchase detail, depending on the user's choice, the program shows the result of the previous choice
 
 ### Before know How run the program, Here is the requirements
-#### - Python 3.x installed if you do not have it [click here in order to downloaded](https://www.python.org/ftp/python/pymanager/python-manager-26.0.msix)
+#### - Python 3.x installed if you do not have it [click here in order to download it](https://www.python.org/ftp/python/pymanager/python-manager-26.0.msix)
 #### - VS Code (optional)
 #### - Git (optional)
 
