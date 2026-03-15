@@ -104,4 +104,13 @@ total cost: 16.2
 ##### Step 2: Clone the repository
 > Open a terminal and type:
  ```git clone https://github.com/miltonjaker1020-svg/English-explanation.git```
-
+##### This will download the entire repository to your computer.
+##### Step 3: Enter the folder
+> on the terminal type:
+```cd Proyectos.inventario-Riwi```
+##### Step 4: Run the program
+###### Option 1: Run button
+> Press the Run Python File button in VS Code.
+###### Option 2: Integrated terminal
+> if you do not see the Run file button, Open the terminal in VS Code and type: ```python inventario.py```
+##### Now you can use the Inventory program
