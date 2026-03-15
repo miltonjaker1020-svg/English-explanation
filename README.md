@@ -80,3 +80,28 @@ total cost: 16.2
 > 2. click **download ZIP**
 > 3. A compressed folder will be uploaded to your computer
 > 4. Extract the folder
+###### Option B: Download the entire program
+> 1. click on the file of the program
+> 2. look for the Raw or download botton
+> 3. save it to your computer
+##### Option 3: Run the program
+> 1. make sure you have python installed
+> 2. Open the folder where you downloaded the file
+> 3. run the file
+##### You can do this in two ways
+###### Option 1: Double click
+> Double clik the ```inventory.py file```
+###### Option 2: Using the terminal
+> 1. open the terminal on the folder you downloaded the program file
+> 2. Type this command ```python inventario.py```
+##### Now you can use the Inventory program
+------
+
+#### Option 2: For people who know how to use Git
+> If you already know Git, the most common way is to clone the repository.
+##### Step 1: Copy the repository URL
+> On the repository page, press Code and copy the URL.    ```https://github.com/miltonjaker1020-svg/English-explanation.git ```
+##### Step 2: Clone the repository
+> Open a terminal and type:
+ ```git clone https://github.com/miltonjaker1020-svg/English-explanation.git```
+
