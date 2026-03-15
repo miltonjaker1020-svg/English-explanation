@@ -66,3 +66,17 @@ total cost: 16.2
 #### once the program has price and quantity, it calculates the final cost by multiplying the previous price and quantity.
 
 #### Finally, the program asks the user what infomation they want to see. They can choose between just watch the final cost or the complete purchase detail, depending on the user's choice, the program shows the result of the previous choice
+
+
+### How  use the program??
+#### Option 1 
+> if you have never used Git, repositories or developer tools, you can use the program easily
+##### Step one: open the repository
+> you have to search the URL of this repository on your browser
+##### Step two: download the program
+> you have two simple ways to do it
+###### Option A: Download the whole repository
+> 1. look for the green **code** button
+> 2. click **download ZIP**
+> 3. A compressed folder will be uploaded to your computer
+> 4. Extract the folder
